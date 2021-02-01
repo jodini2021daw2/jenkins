@@ -2,10 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package jenkins;
+package jenkins
 /**
  *
- * @author jodinidaw2021@
+ * @author jodini2021daw2@gmail.com
+
  */
 import java.io.*;
 public class Jenkins {
